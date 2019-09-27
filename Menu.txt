@@ -12,3 +12,5 @@ Cliente:
 CPF:
 
 E-mail:
+
+Aceita particiopar de promoções? Sim () Não ()
